@@ -51,7 +51,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '100280489861',
     projectId: 'my-test-app-flavors-dev-709d2',
     storageBucket: 'my-test-app-flavors-dev-709d2.appspot.com',
-    iosClientId: '100280489861-jud215n2rn540locm7ptnmp4uds251u4.apps.googleusercontent.com',
+    iosClientId:
+        '100280489861-jud215n2rn540locm7ptnmp4uds251u4.apps.googleusercontent.com',
     iosBundleId: 'com.getboolean.my-test-app-flavors.dev',
   );
 
@@ -61,7 +62,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '100280489861',
     projectId: 'my-test-app-flavors-dev-709d2',
     storageBucket: 'my-test-app-flavors-dev-709d2.appspot.com',
-    iosClientId: '100280489861-jud215n2rn540locm7ptnmp4uds251u4.apps.googleusercontent.com',
+    iosClientId:
+        '100280489861-jud215n2rn540locm7ptnmp4uds251u4.apps.googleusercontent.com',
     iosBundleId: 'com.getboolean.my-test-app-flavors.dev',
   );
 }
